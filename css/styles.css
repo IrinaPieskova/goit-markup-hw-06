@@ -1,0 +1,76 @@
+ul,ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+body{
+   font-family: "Roboto", sans-serif;
+   background: #fff;
+   color: #2e2f42;
+}
+/* ====================HEADER================= */
+.page-logo{
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+}
+.text-color{color: #4d5ae5;;}
+
+.menu-list{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.address{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;}
+.button{font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;}
+
+/* ===================MAIN===================== */
+.title{font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+background: #2e2f42;}
+.title-benefits{font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;}
+.text-benefits{font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;}
+.title-team{font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+}
+.name-team{font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;}
