@@ -74,3 +74,30 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;}
+.team-profesion{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;}
+    /* =====================Our Portfolio=================== */
+    .title-portfolio{font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;} 
+    .list-portfolio{font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;}
+      .text-portfolio{font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;}  
+/* =============FOOTER============= */
+.text-footer{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;}
