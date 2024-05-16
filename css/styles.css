@@ -8,13 +8,14 @@ a{
 button{
     cursor: pointer;
 }
+img{display: block;}
 
 body{
-    font-family: 'Roboto', sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+    font-family:'Roboto', sans-serif;
+    color:#434455;
+    background-color:#FFFFFF;
 }
-
+/* ============================HEADER STYLES=================  */
 .page-logo{
     font-family: 'Raleway', sans-serif;
 font-size: 18px;
