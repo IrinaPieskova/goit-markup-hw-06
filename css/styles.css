@@ -8,16 +8,14 @@ a{
 button{
     cursor: pointer;
 }
-body
-{
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color:#FFFFFF;
-}
+
+
+body{ font-family: 'Roboto': sans-serif;}
+
 /* ====================HEADER================= */
-.page-logo{
+.page-logo
+{
     font-family: "Raleway", sans-serif;
-font-weight: 700;
 font-size: 18px;
 line-height: 1.16667;
 letter-spacing: 0.03em;
@@ -31,9 +29,7 @@ text-transform: uppercase;color: #4d5ae5;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #2e2f42;
-color: #404bbf;
-color: #404bbf;}
+color: #2e2f42;}
 
 .address{
 font-weight: 400;
