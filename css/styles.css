@@ -5,10 +5,6 @@ ul,ol{
 a{
     text-decoration: none;
 }
-button{
-    cursor: pointer;
-    font-family: inherit;
-}
 
 
 body {
@@ -43,3 +39,82 @@ letter-spacing: 0.02em;
 }
 .item-address:hover,
 .item-address:focus {color:#404bbf;}
+.section-title{background-color: #2e2f42;}
+.main-title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+button{
+    cursor: pointer;
+    font-family: inherit;
+    background-color: #4d5ae5;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+button:hover,
+button:focus{color: #404BBF;
+}
+/* =====================BENEFITS  STYLES========================== */
+.title-benefits{font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;}
+.text-benefits{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.section-team{
+    background-color: #f4f4fd;
+}
+.title-team{font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;}
+.name-team{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-profession{line-height: 1.5;
+letter-spacing: 0.02em;
+}
+/* ==========================Our Portfolio STYLES======================== */
+
+.title-portfolio{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.list-portfolio{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.text-portfolio{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+ /*================= FOTTER STYLES================================ */
+
+ .footer-content{
+    background-color: #2e2f42;
+ }
+ .text-footer{line-height: 1.5;
+color: #f4f4fd;
+letter-spacing: 0.02em;}
