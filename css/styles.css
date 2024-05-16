@@ -11,13 +11,13 @@ button{
 }
 img{display: block;}
 
-body{
+body {
     font-family:'Roboto', sans-serif;
     color: #434455;
     background-color:#FFFFFF;
 }
 /* ============================HEADER STYLES=================  */
-.page-logo{
+.page-logo {
     font-family: 'Raleway', sans-serif;
 font-size: 18px;
 line-height: 1.17;
@@ -25,8 +25,8 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.text-color{color: #2e2f42;}
-.menu-list{
+.text-color {color: #2e2f42;}
+.menu-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -34,12 +34,12 @@ color: #4d5ae5;
     color: #2e2f42;
 }
 .menu-list:hover,
-.menu-list:focus{
+.menu-list:focus {
     color: #404bbf;
 }
-.item-address{font-style: normal;
+.item-address {font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .item-address:hover,
-.item-address:focus{color:#404bbf;}
+.item-address:focus {color:#404bbf;}
