@@ -42,7 +42,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.button{font-weight: 500;
+.button{ font-family: inherit;
+    font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
@@ -67,7 +68,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.title-team{font-weight: 700;
+.title-team{
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
@@ -78,14 +79,14 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center; color: #2e2f42;}
-.team-profesion{font-weight: 400;
+.team-profesion{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     }
     /* =====================Our Portfolio=================== */
-    .title-portfolio{font-weight: 700;
+    .title-portfolio{
         font-size: 36px;
         line-height: 1.11111;
         letter-spacing: 0.02em;
@@ -96,13 +97,13 @@ text-align: center; color: #2e2f42;}
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;}
-      .text-portfolio{font-weight: 400;
+      .text-portfolio{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         }  
 /* =============FOOTER============= */
-.text-footer{font-weight: 400;
+.text-footer{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
