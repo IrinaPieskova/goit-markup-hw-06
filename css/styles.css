@@ -34,8 +34,8 @@ color: #4d5ae5;
 .menu-list:focus {
     color: #404bbf;
 }
-.nav-address{background-color: #FFFFFF;}
-.nav-item {font-style: normal;
+.nav-address{background-color: #FFFFFF;font-style: normal;}
+.nav-item {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;}
