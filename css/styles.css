@@ -51,6 +51,7 @@ color:#434455;
 }
 button{
     cursor: pointer;
+    font-weight: 500;
     font-family: inherit;
     font-family: inherit;
     background-color: #4d5ae5;
@@ -102,12 +103,14 @@ letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
+.item-portfolio{background-color: #FFFFFF;}
 .list-portfolio{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+
 }
 .text-portfolio
 {
