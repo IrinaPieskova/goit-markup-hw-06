@@ -133,7 +133,7 @@ gap: 24px;}
 
 .title-benefits-container{margin-bottom: 8px;
 }
-.benefits-list{width: ((100% -72px)/4);}
+.benefits-list{ width: calc((100% - 72px) / 4);}
 .title-benefits{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
