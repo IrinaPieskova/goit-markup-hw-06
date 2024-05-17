@@ -130,9 +130,10 @@ button:focus{ background-color: #404BBF;
 }
 .item-team-container {display: flex;
 gap: 24px;}
-.item-benefits-list{width: calc((100% - 72px) /4);}
+
 .title-benefits-container{margin-bottom: 8px;
 }
+.benefits-list{width: ((100% -72px)/4);}
 .title-benefits{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -143,6 +144,7 @@ color: #2e2f42;}
     letter-spacing: 0.02em;
 }
 
+/* ==============OUR TEAM-============== */
 .section-team{
     background-color: #f4f4fd;
     padding: 120px 0;
