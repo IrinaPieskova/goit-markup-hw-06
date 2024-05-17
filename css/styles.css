@@ -36,6 +36,7 @@ color: #4d5ae5;
 .item-address {font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color:#434455;
 }
 .item-address:hover,
 .item-address:focus {color:#404bbf;}
