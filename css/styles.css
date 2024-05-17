@@ -123,7 +123,8 @@ button:focus{ background-color: #404BBF;
 .section-benefits{
     padding: 120px 0;
 }
-.benefits-list{width: calc((100% - 72px) / 4);}
+
+.benefits-list{width: calc((100% - 3 * 24px) / 4);}
 .item-benefits{
     display: flex;
     gap: 24px;
