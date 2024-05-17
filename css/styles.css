@@ -34,6 +34,7 @@ color: #4d5ae5;
 .menu-list:focus {
     color: #404bbf;
 }
+.nav-address{background-color: #FFFFFF;}
 .nav-item {font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -105,7 +106,8 @@ letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
-.img-portfolio{background-color: #FFFFFF;}
+
+.item-portfolio{background-color: #FFFFFF;}
 .list-portfolio{
     font-weight: 500;
     font-size: 20px;
