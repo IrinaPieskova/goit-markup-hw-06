@@ -261,6 +261,7 @@ letter-spacing: 0.02em;
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .link-social:hover,
 .link-social:focus{
@@ -328,7 +329,9 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .text-portfolio:hover{transform: translateY(0%);}
  /*================= FOTTER STYLES================================ */
-
+.footer-container{display: flex;
+    align-items: baseline;
+    margin-right: 120px }
  .footer-content{
     background-color: #2e2f42;
     padding: 100px 0;
@@ -339,4 +342,11 @@ margin-bottom: 16px;}
     color: #f4f4fd;
 letter-spacing: 0.02em;
 max-width: 264px;}
+.social-media-text{font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+margin-bottom: 16px;
 
+}
