@@ -297,6 +297,7 @@ row-gap: 48px; }
    .img-container{position: relative; 
     overflow: hidden;
 }
+
 .text-portfolio-container{position: absolute;
 top: 0;
 font-size: 16px;
