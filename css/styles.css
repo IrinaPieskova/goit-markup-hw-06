@@ -331,10 +331,13 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
  /*================= FOTTER STYLES================================ */
 .footer-container{display: flex;
     align-items: baseline;
-    margin-right: 120px }
+   }
  .footer-content{
     background-color: #2e2f42;
     padding: 100px 0;
+ }
+ .social-media-container{
+    margin-right: 120px
  }
  .link-footer{display: inline-block;
 margin-bottom: 16px;}
