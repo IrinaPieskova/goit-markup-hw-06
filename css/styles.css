@@ -147,6 +147,7 @@ button{ display: block;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     cursor: pointer;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     
 
 }
@@ -228,7 +229,8 @@ color: #2e2f42;}
 .team-profession-container{
     text-align: center;
 }
-.team-list{background-color: #FFFFFF;}
+.team-list{background-color: #FFFFFF;
+     box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);}
 .team-list-container{
   width: calc((100% - 72px) / 4); border-radius: 0px 0px 4px 4px;
 }
@@ -264,6 +266,30 @@ row-gap: 48px;
 .list-portfolio-container{padding: 32px 16px; border: 1px solid #e7e9fc;
     border-top: none;
 
+}
+.social-list-icons{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+.social-icons{
+    fill: #f4f4fd;
+}
+.social-link-icons{ width: 100%;
+    height: 100%;
+    background-color:#4d5ae5;
+    border-radius:50%;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+.social-link-icons:hover,
+.social-link-icons:focus{ color: #404bbf;
+}
+.social-list{
+    width: 40px;
+    height: 40px;
 }
 .name-portfolio{
     font-weight: 500;
