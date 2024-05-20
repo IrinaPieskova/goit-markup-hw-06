@@ -22,11 +22,11 @@ body {
 }
 .container{
     max-width: 1158px;
-    padding-left: 15;
-    padding-right: 15;
+    padding-left: 15px;
+    padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-    padding: 15;
+    padding: 15px;
 }
 /* ============================HEADER STYLES=================  */
 .header{border-bottom: 1px solid #e7e9fc; 
@@ -46,13 +46,11 @@ margin-right: 76px;
 .header-container{
     display: flex;
     justify-content: space-between;
-    padding-top: 24;
-    padding-bottom: 24;
-    padding: 0 15px;
+  
+  
 }
 .container-nav{
 display: flex;
-gap: 40px;
 align-items: center;
 }
 .container-item{display: flex; gap: 40px;}
@@ -109,12 +107,11 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 
 .hero{background-color: #2e2f42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg); 
-max-width: 1440px;
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover; 
 background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-margin-left: auto;
+margin: auto;
 padding: 188px 0;}
 .hero-container
 .main-title{
@@ -146,6 +143,8 @@ button{ display: block;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    margin: auto;
+    margin-top: 50px;
     cursor: pointer;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     
@@ -193,7 +192,7 @@ button:focus{ background-color: #404BBF;
 gap: 24px;}
 
 .title-benefits-container{margin-bottom: 8px;
-    width: calc((100% - 72px) / 4)}
+   }
 
 .title-benefits{font-weight: 500;
 font-size: 20px;
