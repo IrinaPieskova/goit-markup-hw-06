@@ -115,6 +115,8 @@ background-position: center;
 background-size: cover; 
 background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 margin: auto;
+max-width: 1440px;
+
 padding: 188px 0;}
 .hero-container
 .main-title{
@@ -124,6 +126,7 @@ padding: 188px 0;}
     letter-spacing: 0.02em;
     color: #FFFFFF;
     max-width: 496px;
+ margin:auto;
 }
 .visually-hidden {
     position: absolute !important;
