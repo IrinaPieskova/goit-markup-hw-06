@@ -445,7 +445,8 @@ border-radius: 4px;
     margin-left: 16px;
     
 }
-.container-madal{
+/* =======================MODAL STYLE============ */
+.container-modal{
     position: fixed;
     top: 0;
     left: 0;
