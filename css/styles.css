@@ -440,7 +440,10 @@ margin-bottom: 16px;}
 letter-spacing: 0.02em;
 max-width: 264px;
 }
-
+.box-footer-link{display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
 
 .social-media-text{
    
@@ -451,8 +454,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #FFFFFF;
 
-margin-bottom: 34px;
-/* margin-bottom: 16px; */
+ margin-bottom: 16px;
 
 }
 .link-social-footer{
@@ -938,10 +940,12 @@ padding-bottom: 120px;}
                     }
                     .main-title{font-style: 56px;
                     min-width: 496px;}
-                    .footer-container{max-width: 1158px;
-                        justify-content: center;
-                        align-items: baseline;
-                        flex-wrap: nowrap;}
+                    .footer-container{
+                        max-width: 1158px;
+                       }
+                    .social-media-container{nav-right: 120px;}
+                    .footer-form-container{margin-right: auto;}
+         
 
 
         }
