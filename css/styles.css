@@ -150,13 +150,14 @@ body {
 }
 
 .mob-addres-list{
-margin-bottom: 48px;
-gap: 24px;
 display: flex;
     align-items: flex-start;
     justify-content: flex-start;
     flex-direction: column;
+    gap: 24px;
+    margin-bottom: 48px;
 }
+
 .mob-container-item{display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -168,7 +169,7 @@ display: flex;
 .link-stady {
     color: #404bbf;
 }
-
+.mobile-social-container{width: 100%;}
 
 .social-item-mob {
 display: flex;
@@ -1218,8 +1219,10 @@ color: #fff;
 
     .social-media-container {
     margin-right: 120px;
+    padding: 0;
     }
 
+    .box-footer-link{margin-right: 80px;}
     .footer-form-container {
         margin-right: auto;
     }
