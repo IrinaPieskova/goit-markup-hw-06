@@ -109,10 +109,10 @@ body {
     overflow-y: auto;
     display: flex;
     flex-direction: column;
-    /* justify-content: space-between; */
-    /* visibility: hidden;
+    justify-content: space-between;
+     visibility: hidden;
     opacity: 0;
-    pointer-events: 0; */
+    pointer-events: 0;
     padding: 24px 24px 40px 16px;
 }
 
